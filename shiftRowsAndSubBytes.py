@@ -50,7 +50,7 @@ print('\n')
 sb = sub_bytes(a)
 print('sub_bytes: \n')
 display(sb)
-sr = shiftRows(sb)
+sr = shift_rows(sb)
 print('shift_rows : \n')
 display(sr)
 
